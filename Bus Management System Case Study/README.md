@@ -1,5 +1,4 @@
-# Bus Mangemnent
-![alt text](https://robohash.org/1?200x200)
+# Bus Management
 
 
 

@@ -16,4 +16,6 @@ In server.js file, edit the connection details of your host Database and execute
 
 Type node server.js to run the server in default port: 3000
 
+Complete instructions in main ReadMe of the project.
+
 Happy Hacking!
